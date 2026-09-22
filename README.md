@@ -1,4 +1,4 @@
-# Biscoito da Sorte
+# Biscoito da Sorte 🥠
 
 Aplicativo mobile em React Native + Expo para mostrar frases aleatórias de sorte ao tocar em um biscoito.
 
